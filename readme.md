@@ -8,7 +8,5 @@ python -m pip install obs-websocket-py
 python -m pip install pynput
 ```
 
-Demo (click)
-[![Watch the demo](https://github.com/user-attachments/assets/d2fdefe2-bdc3-478b-a21b-66ac32348eb7)
-](https://github.com/0riginaln0/scene-switcher/blob/main/demo.mp4)
-
+Demo
+![demo (2)](https://github.com/user-attachments/assets/71e75417-be99-4bc0-95b8-78f6d19a4a21)
