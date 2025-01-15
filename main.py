@@ -17,6 +17,7 @@ Left_ht = "Left/ht"
 Le_Right = "Le/Right"
 current_screen = Left_ht
 left_screen_width = 1280
+running = True
 
 
 def on_click(x, _y, _button, pressed):
@@ -45,7 +46,6 @@ def start_listener():
         listener.join()
 
 
-running = True
 try:
     listener_thread = threading.Thread(target=start_listener)
     listener_thread.start()
